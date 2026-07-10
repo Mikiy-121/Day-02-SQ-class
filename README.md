@@ -1,1 +1,1 @@
-Tip calculator made by python 
+Tip calculator made with python 
